@@ -39,7 +39,7 @@ projects.forEach(project => {
     card.innerHTML = `
         <div class="project-video">
             <video preload="metadata">
-                <source src="/video/${project.video}" type="video/mp4">
+                <source src="video/${project.video}" type="video/mp4">
             </video>
             <div class="play-button"></div>
         </div>
