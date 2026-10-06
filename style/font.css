@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'RobotoBold';
-    src: url(style/fonts/RobotoCondensed-Bold.ttf);
+    src: url(fonts/RobotoCondensed-Bold.ttf);
 }
 @font-face {
     font-family: 'RobotoRegular';
-    src: url(style/fonts/RobotoCondensed-Regular.ttf);
+    src: url(fonts/RobotoCondensed-Regular.ttf);
 }
